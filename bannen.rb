@@ -1,0 +1,10 @@
+module Ban
+	KAB=0
+	PAG=1
+	JKN=2
+	KN=3
+	JHN=4
+	LEIDING=5
+	VWB=6
+	OUD_LEIDING=7
+end
